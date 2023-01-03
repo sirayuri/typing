@@ -1,0 +1,11 @@
+C:\Users\dubia\Desktop\高レイヤ\c#\タイピングソフト\タイピングソフト\bin\Debug\タイピングソフト.exe.config
+C:\Users\dubia\Desktop\高レイヤ\c#\タイピングソフト\タイピングソフト\bin\Debug\タイピングソフト.exe
+C:\Users\dubia\Desktop\高レイヤ\c#\タイピングソフト\タイピングソフト\bin\Debug\タイピングソフト.pdb
+C:\Users\dubia\Desktop\高レイヤ\c#\タイピングソフト\タイピングソフト\obj\Debug\タイピングソフト.csproj.AssemblyReference.cache
+C:\Users\dubia\Desktop\高レイヤ\c#\タイピングソフト\タイピングソフト\obj\Debug\タイピングソフト.csproj.SuggestedBindingRedirects.cache
+C:\Users\dubia\Desktop\高レイヤ\c#\タイピングソフト\タイピングソフト\obj\Debug\タイピングソフト.Form1.resources
+C:\Users\dubia\Desktop\高レイヤ\c#\タイピングソフト\タイピングソフト\obj\Debug\タイピングソフト.Properties.Resources.resources
+C:\Users\dubia\Desktop\高レイヤ\c#\タイピングソフト\タイピングソフト\obj\Debug\タイピングソフト.csproj.GenerateResource.cache
+C:\Users\dubia\Desktop\高レイヤ\c#\タイピングソフト\タイピングソフト\obj\Debug\タイピングソフト.csproj.CoreCompileInputs.cache
+C:\Users\dubia\Desktop\高レイヤ\c#\タイピングソフト\タイピングソフト\obj\Debug\タイピングソフト.exe
+C:\Users\dubia\Desktop\高レイヤ\c#\タイピングソフト\タイピングソフト\obj\Debug\タイピングソフト.pdb
